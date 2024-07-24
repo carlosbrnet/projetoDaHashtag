@@ -743,7 +743,7 @@ nav .nav {
 ul .outros-cursos li {
   display: none;
 }
-.outros-cursos.outros-cursos-lista  {
+.outros-cursos.outros-cursos-lista {
   display: flex;
   gap: 0.2rem;
 }
